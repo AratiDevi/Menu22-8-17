@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1273854" started-at="2017-08-21T04:18:01Z" finished-at="2017-08-21T04:39:15Z">
+  <suite name="Default suite" duration-ms="26769" started-at="2017-08-23T11:17:02Z" finished-at="2017-08-23T11:17:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1273854" started-at="2017-08-21T04:18:01Z" finished-at="2017-08-21T04:39:15Z">
+    <test name="Default test" duration-ms="26769" started-at="2017-08-23T11:17:02Z" finished-at="2017-08-23T11:17:29Z">
       <class name="Jibe_Menu.MenuListTest">
-        <test-method status="PASS" signature="initialioseBrowser()[pri:0, instance:Jibe_Menu.MenuListTest@1613674b]" name="initialioseBrowser" is-config="true" duration-ms="18228" started-at="2017-08-21T09:47:43Z" finished-at="2017-08-21T09:48:01Z">
+        <test-method status="PASS" signature="initialioseBrowser()[pri:0, instance:Jibe_Menu.MenuListTest@68b6f0d6]" name="initialioseBrowser" is-config="true" duration-ms="18423" started-at="2017-08-23T16:46:44Z" finished-at="2017-08-23T16:47:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialioseBrowser -->
-        <test-method status="PASS" signature="Sub_SubMenu()[pri:0, instance:Jibe_Menu.MenuListTest@1613674b]" name="Sub_SubMenu" duration-ms="1273822" started-at="2017-08-21T09:48:01Z" finished-at="2017-08-21T10:09:15Z">
+        <test-method status="PASS" signature="Sub_SubMenu()[pri:0, instance:Jibe_Menu.MenuListTest@68b6f0d6]" name="Sub_SubMenu" duration-ms="26737" started-at="2017-08-23T16:47:02Z" finished-at="2017-08-23T16:47:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sub_SubMenu -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Jibe_Menu.MenuListTest@1613674b]" name="closeBrowser" is-config="true" duration-ms="988" started-at="2017-08-21T10:09:15Z" finished-at="2017-08-21T10:09:16Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Jibe_Menu.MenuListTest@68b6f0d6]" name="closeBrowser" is-config="true" duration-ms="852" started-at="2017-08-23T16:47:29Z" finished-at="2017-08-23T16:47:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

@@ -17,22 +17,22 @@ public class MenuListTest extends WebDriverPass {
 		@Test
 		public void Sub_SubMenu() throws Exception {
 			
-			try{
+			
 			
 			M.Sub_SubMenu(driver);			
 			
 			Assert.assertTrue(true);
 			
-			}catch(Exception e){
+			/*}catch(Exception e){
 				
 				e.getMessage();
 								
 							
-			}
+			}*/
 			
 		}
 		
-		
-		
 }
+		
+
 //  Assert.assertEquals(ExpectedTitle, ActualTitle);
